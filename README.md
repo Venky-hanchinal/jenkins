@@ -62,4 +62,4 @@ smtp.gmail.com (update it) > click on advance
 
 2) Click on advance settings > Triggers > untick the developer list > click on apply and save. 
 
-3) Click on Build job once it built you will get e-mail with default subject and content of build status.
+3) Click on Build job once it built you will get e-mail with default subject and content of build status
