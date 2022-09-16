@@ -37,6 +37,7 @@ echo " Welcome Jenkins World "
 Save > Build > In console output it will show Welcome to Jenkins World.
 
 **E-mail Notifications Configuration in Jenkins**
+https://www.youtube.com/watch?v=MFgbp00hbVI&list=PL6flErFppaj35spJjPy41-lruDjw2kRV-&index=5
 
 1) Manage Jenkins > Configure System > E-mail Notification > SMTP server >
 smtp.gmail.com (update it) > click on advance 
